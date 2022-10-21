@@ -15,6 +15,19 @@ namespace mnbgyakk
         public Form1()
         {
             InitializeComponent();
+
+
+        }
+
+        private void meghivas()
+        {
+            var mnbService = new MNBArfolyamServiceSoapClient();
+        }
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
