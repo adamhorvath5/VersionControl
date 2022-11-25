@@ -25,10 +25,10 @@ namespace UnitTestExample.Test
 
 
         [Test,
-            TestCase("abcd", false),
+            TestCase("abcdefgh", false),
             TestCase("ABCD1234", false),
             TestCase("abcd1234", false),
-            TestCase("ab", false),
+            TestCase("abcd", false),
             TestCase("AbCd1234", true)
             ]
         public void TestValidatePassword(string password, bool expectedResult)
