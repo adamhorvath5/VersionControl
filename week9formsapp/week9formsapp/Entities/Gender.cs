@@ -12,8 +12,7 @@ namespace week9formsapp.Entities
         Female = 2
     }
 
-    Gender ádámNeme = Gender.Male;
-    Gender évaNeme = (Gender)2;
+    
 
 
 }
