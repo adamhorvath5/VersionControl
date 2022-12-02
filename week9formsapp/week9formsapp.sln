@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week9formsapp", "week9formsapp\week9formsapp.csproj", "{92768D83-9953-4CB3-821D-422F4873ED9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92768D83-9953-4CB3-821D-422F4873ED9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92768D83-9953-4CB3-821D-422F4873ED9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92768D83-9953-4CB3-821D-422F4873ED9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92768D83-9953-4CB3-821D-422F4873ED9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25B80A4-71E5-4CC1-BFB6-6958A4639921}
+	EndGlobalSection
+EndGlobal
